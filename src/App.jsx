@@ -1,9 +1,6 @@
-import { useState } from "react";
-
 
 import Header from "./components/Header/Header";
 import CoreConcepts from "./components/CoreConcepts.jsx";
-import TabButton from "./components/TabButton";
 import Examples from "./components/Examples.jsx";
 
 function App() {
